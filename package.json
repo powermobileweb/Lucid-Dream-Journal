@@ -21,7 +21,7 @@
     "react-native-modal-datetime-picker": "^7.4.2",
     "react-native-snap-carousel": "^3.8.0",
     "react-native-sound": "^0.10.12",
-    "react-native-sqlite-storage": "^3.3.10",
+    "react-native-sqlite-storage": "^3.3.11",
     "react-native-star-rating": "^1.1.0",
     "react-native-svg": "^9.4.0",
     "react-native-svg-charts": "^5.2.0",
